@@ -6,6 +6,7 @@
 ## Introduction
 
 All images and text copyright Succubus Publishing LLC, www.middara.com
+
 This Privacy Policy describes how Middara Helper handles user information. We are committed to protecting your privacy and being transparent about our data practices.
 
 ## Information Collection and Storage
